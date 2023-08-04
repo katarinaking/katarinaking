@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @katarinaking and I'm stuff
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me using stuff
+- 👋 Hi, I’m @katarinaking and I am a Homo sapien.
+- 👀 I’m interested in art and writing.
+- 🌱 I’m currently learning about commands in terminal and filing issues in Apache.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me using my email address but you can't cause I never told you my email address.
 
 <!---
 katarinaking/katarinaking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
